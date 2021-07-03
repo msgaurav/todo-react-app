@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The Button Component snapshot renders correctly 1`] = `
+<DocumentFragment>
+  <button
+    id="Button_wrapper"
+    type="button"
+  >
+    Submit
+  </button>
+</DocumentFragment>
+`;

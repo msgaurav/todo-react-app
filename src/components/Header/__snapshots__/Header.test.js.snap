@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The Header Component snapshot renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="Header_wrapper"
+  >
+    <h1>
+      ToDo App
+    </h1>
+    <p>
+      Quick to add tasks, organize them into lists
+    </p>
+  </div>
+</DocumentFragment>
+`;

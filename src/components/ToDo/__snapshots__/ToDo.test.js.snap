@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The ToDo Component snapshot renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="ToDo_wrapper"
+  >
+    <form
+      class="form_container"
+    >
+      <input
+        class="inputForm_element"
+        placeholder="Enter your task here"
+        required=""
+        type="text"
+        value=""
+      />
+    </form>
+  </div>
+</DocumentFragment>
+`;
